@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1565331709 source:e:\datastruct\mgraph\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"include\MyQueue.h"
+
+1565329812 source:e:\datastruct\mgraph\src\myqueue.cpp
+	"myQueue.h"
+
+1565329788 e:\datastruct\mgraph\include\myqueue.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1565416464 source:e:\datastruct\algraph\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"include\MyQueue.h"
+
+1565408931 source:e:\datastruct\algraph\src\myqueue.cpp
+	"myQueue.h"
+
+1565408919 e:\datastruct\algraph\include\myqueue.h
+	<stdio.h>
+	<stdlib.h>
+

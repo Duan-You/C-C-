@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1564735000 source:e:\datastruct\bitree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"BiTree.h"
+
+1564739026 source:e:\datastruct\bitree\mystack.cpp
+	"myStack.h"
+
+1564579160 e:\datastruct\bitree\mystack.h
+	<stdio.h>
+	<stdlib.h>
+	"BiTree.h"
+
+1564575408 e:\datastruct\bitree\bitree.h
+	<stdio.h>
+	<stdlib.h>
+
+1564742693 source:e:\datastruct\bitree\bitree.cpp
+	"BiTree.h"
+	"myStack.h"
+	"myQueue.h"
+
+1564739552 source:e:\datastruct\bitree\myqueue.cpp
+	"myQueue.h"
+
+1564742736 e:\datastruct\bitree\myqueue.h
+	<stdio.h>
+	<stdlib.h>
+	"BiTree.h"
+

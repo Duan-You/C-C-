@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1565488743 source:e:\datastruct\search\src\binarysearch.cpp
+	"BinarySearch.h"
+
+1565488727 e:\datastruct\search\include\binarysearch.h
+	<stdio.h>
+	<stdlib.h>
+
+1565488683 source:e:\datastruct\search\src\seqsearch.cpp
+	"SeqSearch.h"
+
+1565488700 e:\datastruct\search\include\seqsearch.h
+	<stdio.h>
+	<stdlib.h>
+
+1565488800 source:e:\datastruct\search\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"include\BinarySearch.h"
+	"include\SeqSearch.h"
+
+1565491601 source:e:\datastruct\search\src\blocksearch.cpp
+	"BlockSearch.h"
+
+1565491612 e:\datastruct\search\include\blocksearch.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564488970 source:d:\cs6\datastruct\linkstack\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

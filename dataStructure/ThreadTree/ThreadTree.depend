@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1564747847 source:e:\datastruct\threadtree\main.cpp
+	"include\ThreadTree.h"
+
+1564747681 source:e:\datastruct\threadtree\src\threadtree.cpp
+	"ThreadTree.h"
+
+1564747450 e:\datastruct\threadtree\include\threadtree.h
+	<stdio.h>
+	<stdlib.h>
+
